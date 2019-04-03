@@ -1647,6 +1647,27 @@ a {
     border: 1px solid #000
 }
 
+
+/*gitee*/
+#header .header-nav .social a.gitee {
+    background: url(/img/gitee.png) center no-repeat #000;
+    border: 1px solid #000
+}
+
+#header .header-nav .social a.gitee:hover {
+    border: 1px solid #000
+}
+/*email*/
+#header .header-nav .social a.email {
+    background: url(/img/email.png) center no-repeat #000;
+    border: 1px solid #000
+}
+
+#header .header-nav .social a.email:hover {
+    border: 1px solid #000
+}
+
+
 #header .header-nav .social a.facebook {
     background: url(/img/facebook.png) center no-repeat #3b5998;
     border: 1px solid #3b5998
