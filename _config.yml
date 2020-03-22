@@ -4,13 +4,11 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  # 主页: /archives/
-  所有文章: /archives/
-  其他: /categories/其他/
-  玩转数码: /categories/digital
-  算法学习: /categories/algorithm
+  首页: /
+  归档: /archives/
+  分类: /categories/
   关于我: /about/
-# 静心阅读: /tags
+  标签: /tags/
 
 # Link to your avatar | 填写头像地址
 avatar: /img/avatar.png
@@ -29,7 +27,7 @@ isHttps: true
 subnav:
   gitee: https://gitee.com/evilrule
   github: https://github.com/qiyuexueyu
-  email: mailto:qiyuexueyu@163.com
+  email: mailto:anuai@qq.com
   # weibo: xxxxxxxx
   # rss: /atom.xml
 
